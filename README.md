@@ -1,7 +1,7 @@
 ### Hi there 👋
   THE OKAYEST PROGRAMMER IS HERE !
-                     Talk is Cheap , Show me the Code
-                     You are the semi-colon to my statements.
+                           ..................     Talk is Cheap , Show me the Code
+                   
                     
 
 
