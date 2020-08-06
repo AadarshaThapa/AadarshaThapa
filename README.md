@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 --> 🔭 Java is to Javascript as Car is to Carpet. 
+--> :trollface:
 
 --> 🌱 I’m currently learning ... Python and Vercel
 
