@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🥅 Future Goals:UI Developer , Kernel Developer
 - 😄 Pronouns: ...Noooob
 - ⚡ Fun fact: ...99% CODE, 100% DOPAMINE
--->📫 Lets Code, Talk is cheap.
+->📫 Lets Code, Talk is cheap.
 
