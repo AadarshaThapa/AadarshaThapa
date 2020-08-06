@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+--> :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy:
+
 <!--
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 --> 🔭 Java is to Javascript as Car is to Carpet. 
---> :trollface:
+
+--> :trollface: Nooob Developer and Okayest Programmer :grey_exclamation: :exclamation:
 
 --> 🌱 I’m currently learning ... Python and Vercel
 
