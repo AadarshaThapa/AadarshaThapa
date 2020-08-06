@@ -1,7 +1,7 @@
-### Hi there 👋 
+### Hi there ! 👋 
 
 
---> :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: :flag_for_Nepal:
+--> :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
 
 <!--
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
