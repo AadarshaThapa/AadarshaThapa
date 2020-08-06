@@ -1,4 +1,4 @@
-### Hi there ! Its AadarshaThapa  👋 
+### Hi there !  👋 
 
 
 --> :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
