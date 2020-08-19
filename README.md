@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 --> 📫 Lets Code, Talk is cheap.
 
---> ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-    ![Image of Maxtocat](https://octodex.github.com/images/maxtocat.gif)
-    ![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif)
+--> ![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif)
+
+  <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+    ![Image of Maxtocat](https://octodex.github.com/images/maxtocat.gif) !>
+   
  
