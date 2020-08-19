@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 --> 📫 Lets Code, Talk is cheap.
 
-     [Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+--> ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
      
  
