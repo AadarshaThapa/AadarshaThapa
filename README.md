@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 --> ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
     ![Image of Maxtocat](https://octodex.github.com/images/maxtocat.gif)
+    ![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif)
  
