@@ -4,7 +4,7 @@
 --> :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
 <!--
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->:trollface: Nooob Developer :grey_exclamation: :exclamation:
+   -->:trollface: Nooob Developer :grey_exclamation: :exclamation:
 
 --> 🌱 I’m currently learning : Python and Vercel
 
@@ -40,10 +40,11 @@
 <br />
 
 ---
-<img align="center" alt="Yaktocat" width="360px" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+<img align="left" alt="Yaktocat" width="360px" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
   
-  <img align="right" alt="Yaktocat" width="260px" src="https://octodex.github.com/images/yaktocat.png"/>
+  
   <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img align="right" alt="Yaktocat" width="260px" src="https://octodex.github.com/images/yaktocat.png"/>
  ![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif) 
     ![Image of Maxtocat](https://octodex.github.com/images/maxtocat.gif) !>
    
