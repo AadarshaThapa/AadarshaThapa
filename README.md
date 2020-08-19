@@ -41,6 +41,19 @@
 
 ---
 <img align="left" alt="Yaktocat" width="360px" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+
+### Social Medias:
+
+[<img align="left" alt="UAadarsha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aadarsha_nirvana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br />
+[twitter]: https://twitter.com/UAadarsha 
+[instagram]: https://instagram.com/aadarsha_nirvana
+[facebook]: https://facebook.com/eminemandaadarsha
+
+
   
   
   <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
