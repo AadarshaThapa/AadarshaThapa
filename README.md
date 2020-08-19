@@ -49,9 +49,15 @@
 [<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&show_icons=true&hide_border=true&count_private=true" /> <br><br>
+
 [twitter]: https://twitter.com/UAadarsha 
 [instagram]: https://instagram.com/aadarsha_nirvana
 [facebook]: https://facebook.com/eminemandaadarsha
+
 
 
   
