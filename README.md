@@ -9,7 +9,6 @@
 Here are some ideas to get you started:
 
 --> 🔭 Java is to Javascript as Car is to Carpet. 
-
 --> :trollface: Nooob Developer and Okayest Programmer :grey_exclamation: :exclamation:
 
 --> 🌱 I’m currently learning ... Python and Vercel
@@ -24,7 +23,6 @@ Here are some ideas to get you started:
 
 --> 📫 Lets Code, Talk is cheap.
 
--->
 
 ### Languages and Tools:
 
