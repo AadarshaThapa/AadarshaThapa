@@ -1,7 +1,7 @@
 ## Hi there ! Its  AadarshaThapa 👋 
 
 
---> :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
+   :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
 <!--
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    -->   :trollface: Nooob Developer :grey_exclamation: :exclamation:
