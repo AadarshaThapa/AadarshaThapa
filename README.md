@@ -1,14 +1,14 @@
-## Hi there ! Its AadarshaThapa 👋 
+## Hi there ! Its  AadarshaThapa 👋 
 
 
 --> :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
 <!--
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> :trollface: Nooob Developer :grey_exclamation: :exclamation:
+-->:trollface: Nooob Developer :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently learning ... Python and Vercel
+--> 🌱 I’m currently learning : Python and Vercel
 
---> 👯 I’m looking to collaborate on ... Front-End Web Designs
+--> 👯 I’m looking to collaborate on : Front-End Web Designs
 
 --> 🥅 Future Goals: UI Developer , Kernel Developer
 
@@ -40,8 +40,9 @@
 <br />
 
 ---
-![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif) <width="260px"/>
+![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif) 
 
+--> <img align="center" alt="Yaktocat" width="260px" src="https://octodex.github.com/images/yaktocat.png"/>
   <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
     ![Image of Maxtocat](https://octodex.github.com/images/maxtocat.gif) !>
    
