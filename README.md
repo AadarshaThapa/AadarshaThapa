@@ -12,7 +12,7 @@
 
 --> 🥅 Future Goals: UI Developer , Kernel Developer
 
---> 📫 Lets Code, Talk is cheap.
+--> 📫 Lets Code, Talk is cheap.  <img align="left" alt="Terminal" width="48px" src="<img src="https://img.icons8.com/color/48/000000/nepal.png"/>
 
 
 ### Programming Languages and Technologies:
