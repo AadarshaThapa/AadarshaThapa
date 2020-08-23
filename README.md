@@ -6,7 +6,7 @@
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    -->   :trollface: Nooob Developer :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently learning : Python and Vercel
+--> 🌱 I’m currently learning : Python and ReactJS
 
 --> 👯 I’m looking to collaborate on : Front-End Web Designs
 
