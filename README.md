@@ -52,9 +52,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&show_icons=true&hide_border=true&count_private=true" /> <br><br>
-
- <img src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&&show_icons=true&title_color=008080&icon_color=00ffd5&text_color=e0ffff&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&&show_icons=true&title_color=008080&icon_color=00ffd5&text_color=e0ffff&bg_color=191919">
 <br><br>
 
 [twitter]: https://twitter.com/UAadarsha 
@@ -66,6 +64,7 @@
   
   
   <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&show_icons=true&hide_border=true&count_private=true" /> <br><br>
 <img align="right" alt="Yaktocat" width="260px" src="https://octodex.github.com/images/yaktocat.png"/>
  ![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif) 
     ![Image of Maxtocat](https://octodex.github.com/images/maxtocat.gif) !>
