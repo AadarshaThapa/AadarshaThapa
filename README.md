@@ -54,6 +54,9 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&show_icons=true&hide_border=true&count_private=true" /> <br><br>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&&show_icons=true&title_color=008080&icon_color=00ffd5&text_color=e0ffff&bg_color=191919">
+<br><br>
+
 [twitter]: https://twitter.com/UAadarsha 
 [instagram]: https://instagram.com/aadarsha_nirvana
 [facebook]: https://facebook.com/eminemandaadarsha
