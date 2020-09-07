@@ -10,7 +10,7 @@
 
 --> 👯 I’m looking to collaborate on : Front-End Web Designs
 
---> 🥅 Future Goals: UI Developer , Kernel Developer
+--> 🥅 Future Goals: UI/UX Developer , Kernel Developer
 
 --> 📫 Lets Code, Talk is cheap. 
 
