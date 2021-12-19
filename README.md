@@ -6,7 +6,7 @@
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    -->   :trollface: Nooob Developer :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently learning : ThreeJS and MERN Stack
+--> 🌱 I’m currently learning : Flutter 
 
 --> 👯 I’m looking to collaborate on : Front-End Web Designs
 
