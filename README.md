@@ -4,9 +4,9 @@
    :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
 <!--
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-   -->   :trollface: Nooob Developer :grey_exclamation: :exclamation:
+   -->   :trollface: :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently learning : Flutter 
+--> 🌱 I’m currently learning : React JS
 
 --> 👯 I’m looking to collaborate on : Front-End Web Designs
 
