@@ -46,6 +46,7 @@
 [<img align="left" alt="UAadarsha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aadarsha_nirvana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -60,6 +61,7 @@
 [twitter]: https://twitter.com/UAadarsha 
 [instagram]: https://instagram.com/aadarsha_nirvana
 [facebook]: https://facebook.com/eminemandaadarsha
+[linkedin]: https://www.linkedin.com/in/aadarsha-thapa-b22628212
 
 
 
