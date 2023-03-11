@@ -10,7 +10,7 @@
 
 --> 👯 I’m looking to collaborate on : Front-End Web Designs 
 
---> 🥅 Future Goals: UI/UX Developer ,SEO Analyst 
+--> 🥅 Future Goals: UI/UX Developer ,Kernal Developer, SEO Analyst 
 
 
 
