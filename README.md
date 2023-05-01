@@ -6,11 +6,11 @@
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    -->   :trollface: :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently learning : React JS and SEO/SEM
+--> 🌱 I’m currently learning : MERN Stack
+ 
+--> 👯 I’m looking to collaborate on : PWA, Responsive Web Designs 
 
---> 👯 I’m looking to collaborate on : Front-End Web Designs 
-
---> 🥅 Future Goals: UI/UX Developer ,Kernal Developer, SEO Analyst 
+--> 🥅 Future Goals: Kernal Developer, Web security
 
 
 
