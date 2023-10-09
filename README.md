@@ -1,4 +1,4 @@
-## Hi there ! Its  AadarshaThapa 👋 
+## Hi there ! Its  **Aadarsha Thapa **👋 
 
 
    :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
@@ -6,11 +6,11 @@
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    -->   :trollface: :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently learning : MERN Stack
+--> 🌱 I’m currently learning : **MERN Stack**
  
---> 👯 I’m looking to collaborate on : PWA, Responsive Web Designs 
+--> 👯 I’m looking to collaborate on : PWA, Responsive Web Designs, Reverse Engineering Websites
 
---> 🥅 Future Goals: Kernal Developer, Web security
+--> 🥅 Future Goals: Kernel Developer, Web Security
 
 
 
