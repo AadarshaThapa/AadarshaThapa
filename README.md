@@ -8,9 +8,9 @@
 
 --> 🌱 I’m currently working on:  **MERN Stack**
  
---> 👯 I’m looking to collaborate on: PWA, Responsive Web Designs, Reverse Engineering Websites
+--> 👯 I’m looking to collaborate on: Responsive Web Designs, PWA, Web Scraping, Data Visualization
 
---> 🚀 Future Goals: **Custom ROM/Kernel Developer**, Web Security
+--> 🚀 Future Goals: Web Security, **Custom ROM/Kernel Developer**,
 
 
 
@@ -55,6 +55,11 @@
 
 <br />
 
+[twitter]: https://twitter.com/UAadarsha 
+[instagram]: https://instagram.com/aadarsha_nirvana
+[facebook]: https://facebook.com/eminemandaadarsha
+[linkedin]: https://www.linkedin.com/in/aadarsha-thapa-b22628212
+
 ---
 <img src="https://www.animatedimages.org/data/media/839/animated-nepal-flag-image-0005.gif" border="0" alt="animated-nepal-flag-image-0005" />
 
@@ -63,10 +68,6 @@
 
 
 
-[twitter]: https://twitter.com/UAadarsha 
-[instagram]: https://instagram.com/aadarsha_nirvana
-[facebook]: https://facebook.com/eminemandaadarsha
-[linkedin]: https://www.linkedin.com/in/aadarsha-thapa-b22628212
 
 
 
