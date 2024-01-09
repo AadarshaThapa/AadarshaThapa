@@ -52,7 +52,7 @@
 
 [<img align="left" alt="UAadarsha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: white;" />][twitter]
 [<img align="left" alt="aadarsha_nirvana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: white;"/>][instagram]
-[<i class="fab fa-facebook" style="color: white;"></i>][facebook]
+<img align="left" alt="C" width="26px" src="https://icons8.com/icon/118468/facebook" style="color: white;"/>[facebook]
 [<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color: white;"/>][facebook]
 [<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="color: white;" />][linkedin]
 <a href="https://portfolio-866f3.firebaseapp.com/" style="color: white;">Portfolio </a>
