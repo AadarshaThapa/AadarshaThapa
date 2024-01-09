@@ -39,7 +39,7 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<a href="https://portfolio-866f3.firebaseapp.com/">Portfolio</a>
+
 
 
 <br />
@@ -54,6 +54,8 @@
 [<img align="left" alt="aadarsha_nirvana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+<a href="https://portfolio-866f3.firebaseapp.com/" style="color: grey;">XXXX</a>
+
 
 <br />
 
