@@ -1,4 +1,4 @@
-## Hi there! It's Aadarsha Thapa 👋 
+## Hello! It's Aadarsha Thapa 👋 
 
 
    :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
@@ -10,7 +10,7 @@
  
 --> 👯 I’m looking to collaborate on: Responsive Web Designs, PWA, Web Scraping, Data Visualization
 
---> 🚀 Future Goals: Web Security, **Custom ROM/Kernel Developer**,
+--> 🚀 Future Goals: **Custom ROM/Kernel Developer**, Web Security 
 
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
