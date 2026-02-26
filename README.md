@@ -6,11 +6,11 @@
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    -->   :trollface: :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently working on:  **MERN/MEAN Stack**
+--> 🌱 I’m currently working on:  **AI/ML/ NLP and Information Retreival Domain**
  
---> 👯 I’m looking to collaborate on: Responsive Web Designs, PWA, Web Scraping, Data Visualization
+--> 👯 I’m looking to collaborate on: MERN/MEAN Stack, PWA, Web Scraping, Data Science and Visualization
 
---> 🚀 Future Goals: **Custom ROM/Kernel Developer**, Web Security 
+--> 🚀 Future Goals: **AI/ML Developer, Custom ROM/Kernel Developer**, Web Security 
 
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
