@@ -1,16 +1,16 @@
 ## Hello! It's Aadarsha Thapa 👋 
 
 
-   :star: :star2: :collision: :anger: :boom: :cupid: :punch: :metal: :dizzy: 
+
 <!--
 **AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    -->   :trollface: :grey_exclamation: :exclamation:
 
---> 🌱 I’m currently working on:  **AI/ML/ NLP and Information Retreival Domain**
+-->  I’m currently working on:  **AI/ML/NLP and Information Retreival Domain**
  
---> 👯 I’m looking to collaborate on: MERN/MEAN Stack, PWA, Web Scraping, Data Science and Visualization
+--> I would love to collaborate on: MERN/MEAN Stack, PWA, Web Scrapping, Data Science and Visualization
 
---> 🚀 Future Goals: **AI/ML Developer, Custom ROM/Kernel Developer**, Web Security 
+-->  Future Goals: **AI/ML Developer, Custom ROM/Kernel Developer**, Web Security 
 
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
@@ -51,17 +51,13 @@
 ### Social Medias:
 
 [<img align="left" alt="UAadarsha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: white;" />][twitter]
-[<img align="left" alt="aadarsha_nirvana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: white;"/>][instagram]
-[<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color: white;"/>][facebook]
 [<img align="left" alt="AadarshaThapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="color: white;" />][linkedin]
-<a href="https://portfolio-866f3.firebaseapp.com/" style="color: white;">Portfolio </a>
+<a href="https://aadarshathapa.github.io/PORTFOLIO-v2/" style="color: white;">Portfolio v2</a>
 
 
 <br />
 
 [twitter]: https://twitter.com/UAadarsha 
-[instagram]: https://instagram.com/aadarsha_nirvana
-[facebook]: https://facebook.com/eminemandaadarsha
 [linkedin]: https://www.linkedin.com/in/aadarsha-thapa-b22628212
 
 ---
@@ -76,8 +72,6 @@
 
 
 
-
-  
   
   <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
