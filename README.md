@@ -1,11 +1,6 @@
 ## Hello! It's Aadarsha Thapa 👋 
 
 
-
-<!--
-**AadarshaThapa/AadarshaThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-   -->   :trollface: :grey_exclamation: :exclamation:
-
 -->  I’m currently working on:  **AI/ML/NLP and Information Retreival Domain**
  
 --> I would love to collaborate on: MERN/MEAN Stack, PWA, Web Scrapping, Data Science and Visualization
@@ -48,6 +43,16 @@
 ---
 <img align="left" alt="Yaktocat" width="360px" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 
+### Opportunities & Contact
+
+If you have an **offer, opportunity, or introduction** that might make my life more interesting, feel free to email me at:
+
+📩 **thapaaadarsha73@gmail.com**
+
+For the reasons stated above, I’ll definitely respond to proposals that are a **good match for my schedule and interests.**
+
+---
+
 ### Social Medias:
 
 [<img align="left" alt="UAadarsha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: white;" />][twitter]
@@ -67,13 +72,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&&show_icons=true&title_color=008080&icon_color=00ffd5&text_color=e0ffff&bg_color=191919">
 <br><br>
-
-
-
-
-
-  
-  <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-   
- 
