@@ -66,9 +66,3 @@ For the reasons stated above, I’ll definitely respond to proposals that are a 
 [linkedin]: https://www.linkedin.com/in/aadarsha-thapa-b22628212
 
 ---
-<img src="https://www.animatedimages.org/data/media/839/animated-nepal-flag-image-0005.gif" border="0" alt="animated-nepal-flag-image-0005" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=AadarshaThapa&&show_icons=true&title_color=008080&icon_color=00ffd5&text_color=e0ffff&bg_color=191919">
-<br><br>
