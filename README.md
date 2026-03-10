@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=AadarshaThapa)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadarshaThapa/AadarshaThapa/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AadarshaThapa/AadarshaThapa/main/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AadarshaThapa/AadarshaThapa/main/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadarshaThapa/AadarshaThapa/ordinary-pattern/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AadarshaThapa/AadarshaThapa/ordinary-pattern/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AadarshaThapa/AadarshaThapa/ordinary-pattern/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -62,7 +62,7 @@ If you have an **offer, opportunity, or introduction** that might make my life m
 
 📩 **thapaaadarsha73@gmail.com**
 
-I'll definitely respond to proposals that are a **good match for my schedule and interests.**
+I'll definitely respond to those proposals that are a **good match for my schedule and interests.**
 
 ---
 
