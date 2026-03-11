@@ -10,7 +10,7 @@
 
 <div align="center">
 <details>
-<summary>Click to reveal ASCII art</summary>
+<summary>My ASCII art</summary>
 <br>
 <img src="https://raw.githubusercontent.com/AadarshaThapa/AadarshaThapa/master/ascii-art.svg" alt="ASCII Art" width="600" />
 </details>
